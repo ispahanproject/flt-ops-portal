@@ -7,7 +7,7 @@
     "repo": "https://github.com/ispahanproject/wx-dashboard",
     "category": "Weather",
     "tags": ["Weather", "Dashboard"],
-    "icon": "zap",
+    "icon": "weather",
     "color": "#8B5CF6"
   },
   {
@@ -18,7 +18,7 @@
     "repo": "https://github.com/ispahanproject/perf-list",
     "category": "Performance",
     "tags": ["Performance", "B737"],
-    "icon": "zap",
+    "icon": "takeoff",
     "color": "#EF4444"
   },
   {
@@ -29,7 +29,7 @@
     "repo": "https://github.com/ispahanproject/ef-perf",
     "category": "Performance",
     "tags": ["Performance", "B737"],
-    "icon": "zap",
+    "icon": "engine",
     "color": "#EF4444"
   },
   {
@@ -40,7 +40,7 @@
     "repo": "https://github.com/ispahanproject/captain-upgrade-study-tool",
     "category": "Regulations",
     "tags": ["Study", "Training"],
-    "icon": "star",
+    "icon": "book",
     "color": "#F59E0B"
   },
   {
@@ -51,7 +51,7 @@
     "repo": "https://github.com/ispahanproject/captain-report-dashboard",
     "category": "Reference",
     "tags": ["Dashboard", "Report"],
-    "icon": "layout",
+    "icon": "clipboard",
     "color": "#3B82F6"
   },
   {
@@ -62,7 +62,7 @@
     "repo": "https://github.com/ispahanproject/ofz-qa",
     "category": "Reference",
     "tags": ["Q&A", "Database"],
-    "icon": "box",
+    "icon": "database",
     "color": "#10B981"
   }
 ]
