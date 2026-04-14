@@ -1,0 +1,68 @@
+[
+  {
+    "id": "wx-dashboard",
+    "title": "Pre-Flight WX Briefing",
+    "description": "フライト前の気象ブリーフィング用ダッシュボード。モバイル最適化されたダークテーマUI。",
+    "url": "https://ispahanproject.github.io/wx-dashboard/",
+    "repo": "https://github.com/ispahanproject/wx-dashboard",
+    "category": "Weather",
+    "tags": ["Weather", "Dashboard"],
+    "icon": "zap",
+    "color": "#8B5CF6"
+  },
+  {
+    "id": "perf-list",
+    "title": "Takeoff Performance",
+    "description": "B737-800のTakeoff Performance計算ツール。空港・気象条件に応じたV-speed・推力設定を算出。",
+    "url": "https://ispahanproject.github.io/perf-list/index.html",
+    "repo": "https://github.com/ispahanproject/perf-list",
+    "category": "Performance",
+    "tags": ["Performance", "B737"],
+    "icon": "zap",
+    "color": "#EF4444"
+  },
+  {
+    "id": "ef-perf",
+    "title": "1 ENG LDG DIST",
+    "description": "One Engine Inoperative Landing Distance Calculator。エンジン1基停止時の着陸距離を算出。",
+    "url": "https://ispahanproject.github.io/ef-perf/oei_calculator.html",
+    "repo": "https://github.com/ispahanproject/ef-perf",
+    "category": "Performance",
+    "tags": ["Performance", "B737"],
+    "icon": "zap",
+    "color": "#EF4444"
+  },
+  {
+    "id": "captain-upgrade-study-tool",
+    "title": "Captain Upgrade Study Tool",
+    "description": "機長昇格に関する25のドキュメントを横断検索・フラッシュカード・クイズで学習できるツール。",
+    "url": "https://ispahanproject.github.io/captain-upgrade-study-tool/study_tool.html",
+    "repo": "https://github.com/ispahanproject/captain-upgrade-study-tool",
+    "category": "Regulations",
+    "tags": ["Study", "Training"],
+    "icon": "star",
+    "color": "#F59E0B"
+  },
+  {
+    "id": "captain-report-dashboard",
+    "title": "Captain Report Summary",
+    "description": "Captain Reportの要約を閲覧するダッシュボード。暗号化されたレポートデータにアクセス可能。",
+    "url": "https://ispahanproject.github.io/captain-report-dashboard/",
+    "repo": "https://github.com/ispahanproject/captain-report-dashboard",
+    "category": "Reference",
+    "tags": ["Dashboard", "Report"],
+    "icon": "layout",
+    "color": "#3B82F6"
+  },
+  {
+    "id": "ofz-qa",
+    "title": "OFZ Q&A",
+    "description": "OM・Route Manual・AOMのQ&Aデータベース。機種別・カテゴリ別の検索・フィルタリングに対応。",
+    "url": "https://ispahanproject.github.io/ofz-qa/",
+    "repo": "https://github.com/ispahanproject/ofz-qa",
+    "category": "Reference",
+    "tags": ["Q&A", "Database"],
+    "icon": "box",
+    "color": "#10B981"
+  }
+]

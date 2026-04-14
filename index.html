@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <title>Flight Ops Portal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="scanline"></div>
+  <div class="vignette"></div>
+
+  <header class="header">
+    <div class="header-inner">
+      <div class="header-left">
+        <h1 class="logo">FLT OPS</h1>
+        <span class="status-badge" id="statusBadge">SYS ONLINE</span>
+      </div>
+      <div class="header-right">
+        <div class="search-wrapper">
+          <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/>
+          </svg>
+          <input type="text" id="search" class="search-input" placeholder="SEARCH...">
+        </div>
+        <time class="clock" id="clock"></time>
+      </div>
+    </div>
+  </header>
+
+  <main class="main">
+    <div class="filter-bar" id="filterBar"></div>
+    <div class="grid" id="appGrid"></div>
+    <div class="empty-state" id="emptyState" hidden>
+      <p>NO DATA</p>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <span class="footer-item">APPS: <span id="appCount">0</span></span>
+      <span class="footer-divider"></span>
+      <span class="footer-item">GITHUB PAGES</span>
+      <span class="footer-divider"></span>
+      <span class="footer-item" id="footerDate"></span>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
