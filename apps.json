@@ -11,6 +11,17 @@
     "color": "#8B5CF6"
   },
   {
+    "id": "wx-min",
+    "title": "Weather Minima",
+    "description": "B737の最低気象条件リファレンス。Dispatch/Takeoff/Landing判断時のミニマ情報を参照。",
+    "url": "https://ispahanproject.github.io/wx-min/",
+    "repo": "https://github.com/ispahanproject/wx-min",
+    "category": "Weather",
+    "tags": ["Weather", "B737"],
+    "icon": "weather",
+    "color": "#06B6D4"
+  },
+  {
     "id": "perf-list",
     "title": "Takeoff Performance",
     "description": "B737-800のTakeoff Performance計算ツール。空港・気象条件に応じたV-speed・推力設定を算出。",
