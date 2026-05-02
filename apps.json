@@ -22,6 +22,17 @@
     "color": "#06B6D4"
   },
   {
+    "id": "perf-qrf",
+    "title": "PERFORMANCE QRF",
+    "description": "B737 Takeoff Performance Quick Reference。離陸性能の迅速参照ツール。",
+    "url": "https://b737-tkof-perf.trinity-funkyboy.workers.dev/",
+    "repo": "",
+    "category": "Performance",
+    "tags": ["Performance", "B737"],
+    "icon": "takeoff",
+    "color": "#EF4444"
+  },
+  {
     "id": "perf-list",
     "title": "Takeoff Performance",
     "description": "B737-800のTakeoff Performance計算ツール。空港・気象条件に応じたV-speed・推力設定を算出。",
