@@ -22,6 +22,17 @@
     "color": "#06B6D4"
   },
   {
+    "id": "wx-summary",
+    "title": "WX Summary",
+    "description": "B737運航13空港のWeather Summary。空港別の悪天候・気象ハザード情報を集約。",
+    "url": "https://ispahanproject.github.io/wx-summary/",
+    "repo": "https://github.com/ispahanproject/wx-summary",
+    "category": "Weather",
+    "tags": ["Weather", "B737"],
+    "icon": "weather",
+    "color": "#0EA5E9"
+  },
+  {
     "id": "perf-qrf",
     "title": "PERFORMANCE QRF",
     "description": "B737 Takeoff Performance Quick Reference。離陸性能の迅速参照ツール。",
